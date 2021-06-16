@@ -1,0 +1,13 @@
+{
+  "name": "freecodecampjsprojects",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp \"JavaScript Algorithms and Data Structures\" projects",
+  "author": "Théo Gomichon",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}

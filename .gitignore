@@ -1,10 +1,10 @@
 # Python projects
 
-__pycache__
+__pycache__/
 
 # JS projects
 
-node_modules
+node_modules/
 
 # Other
 
