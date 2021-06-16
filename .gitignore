@@ -1,0 +1,13 @@
+# Python projects
+
+__pycache__
+
+# JS projects
+
+node_modules
+
+# Other
+
+.replit
+.vscode
+.DS_Store
