@@ -1,0 +1,19 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": {
+		"name": "Théo Gomichon",
+		"email": "theo.gom.2000@gmail.com",
+		"url": "https://github.com/theogom"
+	},
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/theogom/freecodecamp"
+	}
+}
